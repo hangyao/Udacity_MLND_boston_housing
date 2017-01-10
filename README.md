@@ -21,11 +21,17 @@ Template code is provided in the `boston_housing.ipynb` notebook file. You will 
 
 In a terminal or command window, navigate to the top-level project directory `boston_housing/` (that contains this README) and run one of the following commands:
 
-```ipython notebook boston_housing.ipynb```  
-```jupyter notebook boston_housing.ipynb```
+```
+ipython notebook boston_housing.ipynb 
+jupyter notebook boston_housing.ipynb
+```
 
 This will open the iPython Notebook software and project file in your browser.
 
 ### Data
 
 The dataset used in this project is included with the scikit-learn library ([`sklearn.datasets.load_boston`](http://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_boston.html#sklearn.datasets.load_boston)). You do not have to download it separately. You can find more information on this dataset from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Housing) page.
+
+### License
+
+The contents of this repository are covered under the [MIT License](LICENSE).
